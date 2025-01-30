@@ -46,3 +46,9 @@ Atualmente, trabalho no setor financeiro como desenvolvedor, tenho **3 anos de e
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvottoni2021&hide_rank=true&show_icons=true&theme=radical">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvottoni2021&hide_progress=false&layout=compact&theme=radical">
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JvOttoni2021/JvOttoni2021/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JvOttoni2021/JvOttoni2021/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JvOttoni2021/JvOttoni2021/output/github-contribution-grid-snake.svg">
+</picture>
